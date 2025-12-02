@@ -15,5 +15,5 @@ Portfolio of EDA, data cleaning, wrangling, and feature-engineering projects com
 - **Objective:** Analyze historical sales data to uncover trends, customer behavior, and performance patterns that support data-driven business and marketing decisions.
 - **Tools:** Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebook
 - **Key Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Time-Series Trend Analysis (Daily, Weekly, Monthly, Quarterly), Sales Performance Evaluation, Customer & Product Behavior Insights, Data Visualization & Charting, Business Interpretation & Insight Communication
-- **Files:** *( `Sales_Analysis.ipynb`, `Sales_Report.pdf`, `sales_data.csv`)*
+- **Files:** * `Sales_Analysis.ipynb`, `Sales_Report.pdf`, `sales_data.csv`*
 
